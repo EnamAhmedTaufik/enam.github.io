@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 
-Hi, I’m Enam Ahmed Taufik
-Welcome to my personal portfolio! I’m a computer science researcher and educator from Dhaka, Bangladesh, passionate about creating intelligent systems that bridge language and vision. My work lies at the intersection of Natural Language Processing (NLP), Computer Vision (CV), Explainable AI, and Applied Machine Learning, with a special focus on making these technologies interpretable, inclusive, and socially impactful.
+Hi, I’m Enam Ahmed Taufik 
 
-I’m currently serving as a Lecturer at the European University of Bangladesh (EUB) and recently completed a B.Sc. in Computer Science & Engineering from BRAC University, where I graduated with Highest Distinction.
+Welcome to my personal portfolio! I’m a computer science researcher and educator from Dhaka, Bangladesh, passionate about creating intelligent systems that bridge language and vision. My work lies at the intersection of **Natural Language Processing (NLP), Computer Vision (CV), Explainable AI, and Applied Machine Learning**, with a special focus on making these technologies interpretable, inclusive, and socially impactful.
+
+I’m currently serving as a **Lecturer** at the ([European University of Bangladesh (EUB)](https://eub.edu.bd/)) and recently completed a B.Sc. in Computer Science & Engineering from ([BRAC University](https://www.bracu.ac.bd/)), where I graduated with Highest Distinction.
 
 Here you’ll find my projects, publications, and ongoing research pursuits. I believe in building technology that empowers—not replaces—people, and I’m always curious to explore new collaborations that align with that vision.
 
