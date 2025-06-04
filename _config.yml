@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "🏠 Enam's Home Page"
+title                    : "Enam's Home Page"
 title_separator          : "-"
 name                     : &name "Enam Ahmed Taufik"
 description              : &description "Lecturer"
